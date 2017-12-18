@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "752612936913",
+    "firebase_url": "https://ididit-90efd.firebaseio.com",
+    "project_id": "ididit-90efd",
+    "storage_bucket": "ididit-90efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752612936913:android:40a372dfa46ca374",
+        "android_client_info": {
+          "package_name": "edu.upc.eseiaat.pma.ididit_17"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752612936913-gs80ot61p3vcke1ub43rrkcbfd4f194t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.upc.eseiaat.pma.ididit_17",
+            "certificate_hash": "cd9cec924bca289dbf65c2068cb2ef41e01fcf54"
+          }
+        },
+        {
+          "client_id": "752612936913-e9g9756cj79n56ebpu4pl4d31rfe0rpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZMpy48_ifsl3LqTNa74Psu36OIiBLK7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752612936913-e9g9756cj79n56ebpu4pl4d31rfe0rpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
